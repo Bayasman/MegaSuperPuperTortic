@@ -1,0 +1,8 @@
+C:\Users\kudaj\source\repos\MegaSuperPuperTortic\MegaSuperPuperTortic\bin\Debug\MegaSuperPuperTortic.exe.config
+C:\Users\kudaj\source\repos\MegaSuperPuperTortic\MegaSuperPuperTortic\bin\Debug\MegaSuperPuperTortic.exe
+C:\Users\kudaj\source\repos\MegaSuperPuperTortic\MegaSuperPuperTortic\bin\Debug\MegaSuperPuperTortic.pdb
+C:\Users\kudaj\source\repos\MegaSuperPuperTortic\MegaSuperPuperTortic\obj\Debug\MegaSuperPuperTortic.csproj.AssemblyReference.cache
+C:\Users\kudaj\source\repos\MegaSuperPuperTortic\MegaSuperPuperTortic\obj\Debug\MegaSuperPuperTortic.csproj.SuggestedBindingRedirects.cache
+C:\Users\kudaj\source\repos\MegaSuperPuperTortic\MegaSuperPuperTortic\obj\Debug\MegaSuperPuperTortic.csproj.CoreCompileInputs.cache
+C:\Users\kudaj\source\repos\MegaSuperPuperTortic\MegaSuperPuperTortic\obj\Debug\MegaSuperPuperTortic.exe
+C:\Users\kudaj\source\repos\MegaSuperPuperTortic\MegaSuperPuperTortic\obj\Debug\MegaSuperPuperTortic.pdb
